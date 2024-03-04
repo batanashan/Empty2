@@ -1,0 +1,16 @@
+
+Create a new repository with out files
+-------------------------------------------
+1. create a new folder <name> in your c/d drive.
+2.go to cmd prompt in this folder.Enter >>git init
+
+(message)----Initialized empty Git repository in C:/workspace/Empty/.git/
+
+Reinitalized:--Reinitialized existing Git repository in C:/workspace/Empty/.git/
+3.git status
+4.>>git add *
+5.>>git commit -m "message--"
+6.convert master branch to your branch
+>>git checkout -b "----branch name"
+7.>>git remote add origin https://github.com/batanashan/Empty2.git
+8.>> git push --set-upstream origin login
